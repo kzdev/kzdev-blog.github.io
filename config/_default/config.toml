@@ -1,4 +1,4 @@
 baseURL = "https://blog.kz-dev.com/kzdev-blog.github.io/"
 languageCode = "ja-jp"
 title = "a tomato"
-theme = "ananke"
+theme = "DoIt"

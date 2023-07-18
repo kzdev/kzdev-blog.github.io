@@ -1,0 +1,4 @@
+baseURL = "https://blog.kz-dev.com"
+languageCode = "ja-jp"
+title = "a tomato"
+theme = "DoIt"
